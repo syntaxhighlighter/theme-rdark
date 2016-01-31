@@ -16,15 +16,16 @@
     "url": "https://github.com/syntaxhighlighter/theme-rdark"
   },
   "devDependencies": {
+    "babel-core": "^6.1.21",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-register": "^6.4.3",
     "node-sass": "^3.4.2",
-    "mocha": "^2.3.4"
+    "mocha": "^2.3.4",
+    "theme-base": "syntaxhighlighter/theme-base"
   },
   "engines": {
     "node": ">=0.10.0",
     "npm": ">=1.2.10"
   },
-  "license": "MIT",
-  "dependencies": {
-    "theme-base": "syntaxhighlighter/theme-base"
-  }
+  "license": "MIT"
 }
