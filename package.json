@@ -1,5 +1,5 @@
 {
-  "name": "theme-rdark",
+  "name": "@alexgorbatchev/theme-rdark",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
