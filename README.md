@@ -2,11 +2,11 @@
 
 RDark theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-rdark.svg)](https://travis-ci.org/alexgorbatchev/theme-rdark)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-rdark.svg)](https://travis-ci.org/syntaxhighlighter/theme-rdark)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-rdark
+    npm install @alexgorbatchev/theme-rdark
 
 ## Testing
 
