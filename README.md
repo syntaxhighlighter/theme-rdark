@@ -7,7 +7,7 @@
 
 RDark theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
-![Screenshot](screenshot.png)
+<img src="screenshot.png" width="640" />
 
 ## Installation
 
