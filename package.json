@@ -1,5 +1,5 @@
 {
-  "name": "@alexgorbatchev/theme-rdark",
+  "name": "theme-rdark",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
@@ -21,7 +21,7 @@
     "babel-register": "^6.4.3",
     "node-sass": "^3.4.2",
     "mocha": "^2.3.4",
-    "theme-base": "syntaxhighlighter/theme-base"
+    "theme-base": "^4.0.0"
   },
   "engines": {
     "node": ">=4",
