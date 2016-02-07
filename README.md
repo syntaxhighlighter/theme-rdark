@@ -9,21 +9,9 @@ RDark theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxh
 
 <img src="screenshot.png" width="640" />
 
-## Installation
-
-```
-npm install theme-rdark
-```
-
 ## Usage
 
 Please see [Building Instructions](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Building) on the [SyntaxHighlighter Wiki](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki) for details.
-
-## Testing
-
-```
-npm test
-```
 
 ## License
 
